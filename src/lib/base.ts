@@ -1,0 +1,1 @@
+export const base = (process.env.BASE_PATH as string | undefined) || '/';

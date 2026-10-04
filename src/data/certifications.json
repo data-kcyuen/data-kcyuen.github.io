@@ -1,47 +1,20 @@
 [
   {
-    "name": "Google UX Design Certificate",
-    "issuer": "Google / Coursera",
-    "date": "May 2026",
-    "status": "Earned",
+    "name": "Microsoft Certified: Power BI Data Analyst Associate",
+    "issuer": "Microsoft",
+    "date": "Sept 2026",
+    "status": "Active",
     "type": "certification",
-    "description": "Seven-course program covering UX research, wireframing, prototyping, and usability testing. Emphasis on human-centered design principles and building accessible, inclusive user experiences.",
-    "credentialUrl": ""
+    "description": "Demonstrate methods and best practices that align with business and technical requirements for modeling, visualizing, and analyzing data with Microsoft Power BI.",
+    "credentialUrl": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fcredentials%2Fshare%2Fen-us%2FKelvinYuen-5945%2FCF44EF009AEC0D0C%3FsharingId&urlhash=fvrH&mt=T-PTL0yOCvVIMwkjxOxszThIpXaTyP3bTlt6OhtM8OowbdFNh_zM1ftY_xdE83dRMinGdxuCNnc0E29I8C8_ZNevt54&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BldxNfZDCRwmWO%2BW6%2B242Tg%3D%3D"
   },
   {
-    "name": "Freelance Business Foundations",
-    "issuer": "CreativeLive",
-    "date": "December 2025",
-    "status": "Earned",
-    "type": "certification",
-    "description": "Business-side program covering client acquisition, proposal writing, contracts, pricing strategy, and scope management. A practical toolkit for running an independent creative practice.",
-    "credentialUrl": ""
-  },
-  {
-    "name": "Motion Design with After Effects",
-    "issuer": "School of Motion",
-    "date": "August 2024",
-    "status": "Completed",
-    "type": "professional-development",
-    "description": "Motion principles, keyframe animation, easing curves, and compositing applied to title sequences, UI animations, and explainer video production.",
-    "credentialUrl": ""
-  },
-  {
-    "name": "3D Art for Real-Time Engines",
-    "issuer": "Unity Learn / Epic Games",
-    "date": "Target: Q3 2027",
+    "name": "Databricks Certified Data Engineer Associate",
+    "issuer": "Databricks",
+    "date": "",
     "status": "In Progress",
     "type": "in-progress",
-    "description": "Bridging offline rendering knowledge with real-time constraints — optimizing assets, baking maps, and building environments in Unreal Engine for interactive and immersive projects.",
-    "credentialUrl": ""
-  },
-  {
-    "name": "Creative Coding & Generative AI",
-    "issuer": "Domestika / Runway",
-    "date": "Target: 2028",
-    "status": "In Progress",
-    "type": "in-progress",
-    "description": "Exploring the intersection of code, generative models, and visual art — building interactive installations, AI-assisted design tools, and procedural media for web and physical spaces.",
+    "description": "Use the Databricks Lakehouse Platform to complete introductory data engineering tasks",
     "credentialUrl": ""
   }
 ]

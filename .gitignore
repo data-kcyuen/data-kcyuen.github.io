@@ -118,3 +118,8 @@ replit.nix
 # Copilot4PRs / CodeRabbit
 .coderabbit/
 .coderabbit.yaml
+
+
+
+# Custom ignore list for this project
+public/*.pdf

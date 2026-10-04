@@ -4,7 +4,7 @@ FROM node:24-alpine AS deps
 RUN npm install -g pnpm@11 --silent
 WORKDIR /app
 COPY package.json pnpm-lock.yaml pnpm-workspace.yaml ./
-RUN pnpm install --frozen-lockfile
+RUN pnpm install --no-frozen-lockfile
 
 # ── Stage 2: Lint ────────────────────────────────────────────────────────────
 # Fails the build if ESLint violations are found
