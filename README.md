@@ -1,3 +1,7 @@
+# Template from [MarcusHoltz's template](https://github.com/MarcusHoltz/astro-portfolio-theme)
+
+This repo is using template from MarcusHoltz and is deployed to [my Github Page](https://data-kcyuen.github.io).
+
 # astro-portfolio-theme
 
 Portfolio template built with Astro. All your content lives in simple JSON files. Edit them, run a build command, and your finished static site lands in `./output/` ready on github pages, gitlab pages, upload anywhere.
