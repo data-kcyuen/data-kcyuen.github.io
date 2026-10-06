@@ -7,7 +7,7 @@
       "resume": true,
       "company": "Personal",
       "category": "dataops",
-      "description": "The template you're looking at right now. Built with Astro, fully data-driven, and designed to be claimed by anyone. Fork it, fill it, ship it. All placeholder content is waiting for yours.",
+      "description": "A simulated insurance data platform which has multiple types of data sources and uses Databricks to centralize data for further business use. It presents both technical and insurance domain knowledge and is finally not COVID-19, NYC Taxi, or Uber trip data that everybody plays around.",
       "tags": ["Data Platform", "Databricks", "ETL", "Data Pipeline", "Life Insurance"],
       "icon": "command-line",
       "sliderImage": "/images/projects/use-astro2.jpg",

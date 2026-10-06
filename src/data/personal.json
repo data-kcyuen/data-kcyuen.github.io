@@ -1,14 +1,14 @@
 {
   "name": "Kelvin Yuen",
-  "url": "https://www.example.com",
+  "url": "",
   "addressLocality": "Hong Kong",
   "addressRegion": "ST",
-  "title": "Data Professional",
+  "title": "Data Manager",
   "photo": "/images/personal/portrait.png",
   "photoAlt": "My Photo",
   "email": "kcyuen.kelvin@gmail.com",
   "phone": "",
-  "phoneTel": "+10000000000",
+  "phoneTel": "",
   "location": "Hong Kong",
   "linkedin": "data-kel-kc",
   "github": "data-kcyuen",
@@ -28,11 +28,11 @@
   "signal": "",
   "blog": "",
   "cv": "/Resume_20260915.pdf",
-  "education": "Information Management, Hong Kong City University",
+  "education": "Information Management, Hong Kong City University (2011-2014)",
   "yearsExperience": "12+",
   "portfolioUrl": "",
-  "heroRole": "Data Professional",
+  "heroRole": "Data Manager",
   "heroSocialLinks": ["github", "linkedin"],
   "bio": "Data Nerd — I centralize data, turn it into insights, and tell a story worth remembering.",
-  "aboutLong": "A versatile creative who moves fluidly between disciplines — whether that means crafting a brand identity from scratch, writing clean production code, modeling a 3D environment, or cutting a film that actually makes people feel something. The common thread is craft: doing the work well enough that the process disappears and only the result remains. Replace this with your own story."
+  "aboutLong": "Senior Data Integration & Platform Leader with over 12 years of experience designing, scaling, and managing enterprise-level data platforms solutions in major banking and insurance institutions (Chubb Life, FWD, HSBC, ICBC, BOC). Proven track record of building high-performing data engineering teams from scratch, managing full lifecycle delivery (scope, cost, resource allocation), and handling critical cloud-based platform migrations and regulatory initiatives (such as IFRS17). Expert at bridging the gap between technical data engineering (Azure, Databricks) and business strategy, with deep competence in vendor management and SLA tracking."
 }

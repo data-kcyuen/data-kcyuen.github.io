@@ -1,28 +1,28 @@
 {
   "items": [
     {
-      "key": "sysadmin",
+      "key": "datadesign",
       "icon": "server-stack",
       "title": "Design Data Platforms & Systems",
-      "description": "Visual identity, layout, typography, and the aesthetic decisions that make people stop and look twice. Whether print or screen, the goal is the same — work that holds up."
+      "description": "Design usable and scalable data platform that business trust, one platform which can really avoid data silos."
     },
     {
-      "key": "webdev",
+      "key": "datamodel",
       "icon": "code-bracket-square",
       "title": "Data Modeling & Architecture",
-      "description": "From wireframe to deployment — building sites and apps that look considered, perform well, and give visitors exactly what they came for."
+      "description": "Modeling lays the most important foundation of a data platform. With robust architecture that meets today's standard "
     },
     {
-      "key": "freelance",
+      "key": "share",
       "icon": "user-circle",
       "title": "Share Knowledge & Thought",
-      "description": "Independent project work in photography, video, 3D, illustration, or wherever the brief leads. Direct to work with, flexible, and invested in the outcome."
+      "description": "Knowledge is knowledge only when it is shared. Sharing thoughts about data to boost data literacy."
     },
     {
       "key": "leadership",
       "icon": "users",
       "title": "Collaboration & Direction",
-      "description": "Working alongside teams, clients, and stakeholders to take a project from idea to shipped — clear communication, honest timelines, and work that actually gets done."
+      "description": "Working alongside business stakeholders to turn idea to data solution with effective communication. Celebrate team success."
     }
   ]
 }
